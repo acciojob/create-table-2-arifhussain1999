@@ -1,5 +1,5 @@
 function createTable() {
-    const rn = prompt("Input number of rows ");
+    const rn = prompt("Input number of rows");
     const cn = prompt("Input number of columns");
   
     const table = document.getElementById('myTable');
